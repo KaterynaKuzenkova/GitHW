@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .button {
   background-color: #4CAF50; /* Green */
   border: none;
