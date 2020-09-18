@@ -8,5 +8,6 @@ namespace HelloName
         {
             Console.WriteLine("Hello <Name>!");
         }
-    }
+    } new text 
+    new text2
 }
